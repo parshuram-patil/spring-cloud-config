@@ -1,2 +1,4 @@
-my:
-  property: prod
+env:
+  name:
+    full: Production
+    short: PROD

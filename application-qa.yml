@@ -1,2 +1,4 @@
-my:
-  property: qa
+env:
+  name:
+    full: Quality
+    short: QA

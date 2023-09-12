@@ -1,2 +1,4 @@
-my:
-  property: dev
+env:
+  name:
+    full: Development
+    short: DEV

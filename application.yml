@@ -1,2 +1,4 @@
-my:
-  property: local
+env:
+  name:
+    full: Default
+    short: DEF
