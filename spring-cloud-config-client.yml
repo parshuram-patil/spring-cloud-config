@@ -1,0 +1,4 @@
+env:
+  name:
+    full: Default-Client
+    short: DEF-C

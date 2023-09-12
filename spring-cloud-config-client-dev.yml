@@ -1,0 +1,4 @@
+env:
+  name:
+    full: Development-Client
+    short: DEV-C
